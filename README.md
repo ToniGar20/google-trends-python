@@ -1,4 +1,4 @@
-# pytrends
+# Google Trends with Python API
 
 ## Introduction
 
