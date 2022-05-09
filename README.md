@@ -4,10 +4,13 @@
 
 Scripts for data extraction from Google Trends.
 
+Official documentation at [PYPI](https://pypi.org/project/pytrends/)
+
 ## Table of Contents
 
 * [Installation](#installation)
-
+* [Requirements](#requirements)
+* [Use](#use)
 * [API](#api)
 
   * [API Methods](#api-methods)
@@ -27,7 +30,7 @@ Written for Python 3.3+
 
     python script-name.py
 
-CSV file with trends data will be downloaded as ``results.csv`` at the folder of execution of the script. 
+CSV file with trends data will be downloaded as ``script-name-results.csv`` at the folder of execution of the script. 
 
 ## API
 
