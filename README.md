@@ -8,6 +8,7 @@ Official documentation at [PYPI](https://pypi.org/project/pytrends/)
 
 ## Table of Contents
 
+* [Scripts](#scripts)
 * [Installation](#installation)
 * [Requirements](#requirements)
 * [Use](#use)
@@ -17,6 +18,9 @@ Official documentation at [PYPI](https://pypi.org/project/pytrends/)
 
   * [Common API Parameters](#common-api-parameters)
 
+## Scripts
+
+* ``category-trends`` Given a list of categories, extraction of the overall interest por Spain, Italy and Portugal
 
 ## Installation
 
