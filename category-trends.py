@@ -55,7 +55,7 @@ def get_trends(trend_category, country):
 
 file_header = ['date', 'trend_value', 'category', 'country']
 
-with open('results.csv', 'w') as file:
+with open('category-trends-results.csv', 'w') as file:
     writer = csv.writer(file)
     writer.writerow(file_header)
 
@@ -63,4 +63,4 @@ with open('results.csv', 'w') as file:
         for category in gtrends_target_categories:
             category_data = get_trends(category, item)
             print(category_data)
-            category_data.to_csv('results.csv', header=None, mode='a')
+            category_data.to_csv('category-trends-results.csv', header=None, mode='a')
