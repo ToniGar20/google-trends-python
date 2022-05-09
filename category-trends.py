@@ -3,7 +3,7 @@ import csv
 
 # Documentation of Google Trends categories
 # https://github.com/pat310/google-trends-api/wiki/Google-Trends-Categories
-gtrends_target_categories = {
+TRENDS_CATEGORIES = {
     158: 'Mejora del hogar',
     950: 'Herramientas de construcción y eléctricas',
     828: 'Sistemas de climatización',
@@ -47,27 +47,22 @@ def get_trends(trend_category, country):
         geo=country
     )
     data = pytrend.interest_over_time()
-    data['category'] = gtrends_target_categories[category]
+    data['category'] = TRENDS_CATEGORIES[category]
     data['country'] = country
     del data['isPartial']
     return data
-
-
-# Removing content of the current CSV
-filename = open('category-trends-results.csv','w')
-filename.truncate()
-filename.close()
 
 # Headers for file
 file_header = ['date', 'trend_value', 'category', 'country']
 
 with open('category-trends-results.csv', 'w') as file:
+    file.truncate() # Removing content of current CSV if there is old one
     writer = csv.writer(file)
     writer.writerow(file_header)
 
     # Country and category loops
     for item in COUNTRIES:
-        for category in gtrends_target_categories:
+        for category in TRENDS_CATEGORIES:
             category_data = get_trends(category, item)
             print(category_data)
             category_data.to_csv('category-trends-results.csv', header=None, mode='a')
