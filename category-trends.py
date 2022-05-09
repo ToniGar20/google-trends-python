@@ -53,12 +53,19 @@ def get_trends(trend_category, country):
     return data
 
 
+# Removing content of the current CSV
+filename = open('category-trends-results.csv','w')
+filename.truncate()
+filename.close()
+
+# Headers for file
 file_header = ['date', 'trend_value', 'category', 'country']
 
 with open('category-trends-results.csv', 'w') as file:
     writer = csv.writer(file)
     writer.writerow(file_header)
 
+    # Country and category loops
     for item in COUNTRIES:
         for category in gtrends_target_categories:
             category_data = get_trends(category, item)
