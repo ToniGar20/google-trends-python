@@ -83,6 +83,7 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name('py-for-gsheets-e
 gc = gspread.authorize(credentials)
 
 # Drive key and worksheet
+# Full path: https://docs.google.com/spreadsheets/d/10RBqKVfXuNViou5LUBjE3-tHfqjkZckEIncnHBlJOMk/
 spreadsheet_key = '10RBqKVfXuNViou5LUBjE3-tHfqjkZckEIncnHBlJOMk'
 wks_name = 'Data'
 
