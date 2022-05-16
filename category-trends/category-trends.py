@@ -72,7 +72,7 @@ with open('category-trends-results.csv', 'w') as file:
     for item in COUNTRIES:
         for category in TRENDS_CATEGORIES:
             category_data = get_trends(category, item)
-            # print(category_data)
+            print(category_data)
             category_data.to_csv('category-trends-results.csv', header=None, mode='a')
 
 # Converting 'trend_value' data to int64
