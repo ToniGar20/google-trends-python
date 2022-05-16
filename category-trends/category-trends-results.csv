@@ -76,7 +76,7 @@ date,trend_value,category,country
 2018-10-28,71,Mejora del hogar,ES
 2018-11-04,73,Mejora del hogar,ES
 2018-11-11,70,Mejora del hogar,ES
-2018-11-18,71,Mejora del hogar,ES
+2018-11-18,72,Mejora del hogar,ES
 2018-11-25,67,Mejora del hogar,ES
 2018-12-02,62,Mejora del hogar,ES
 2018-12-09,63,Mejora del hogar,ES
@@ -140,7 +140,7 @@ date,trend_value,category,country
 2020-01-19,74,Mejora del hogar,ES
 2020-01-26,70,Mejora del hogar,ES
 2020-02-02,71,Mejora del hogar,ES
-2020-02-09,70,Mejora del hogar,ES
+2020-02-09,69,Mejora del hogar,ES
 2020-02-16,70,Mejora del hogar,ES
 2020-02-23,69,Mejora del hogar,ES
 2020-03-01,70,Mejora del hogar,ES
@@ -257,7 +257,7 @@ date,trend_value,category,country
 2022-04-17,54,Mejora del hogar,ES
 2022-04-24,52,Mejora del hogar,ES
 2022-05-01,55,Mejora del hogar,ES
-2022-05-08,59,Mejora del hogar,ES
+2022-05-08,58,Mejora del hogar,ES
 2017-05-21,62,Herramientas de construcción y eléctricas,ES
 2017-05-28,64,Herramientas de construcción y eléctricas,ES
 2017-06-04,60,Herramientas de construcción y eléctricas,ES
@@ -855,7 +855,7 @@ date,trend_value,category,country
 2018-10-21,81,Fontanería,ES
 2018-10-28,72,Fontanería,ES
 2018-11-04,79,Fontanería,ES
-2018-11-11,77,Fontanería,ES
+2018-11-11,78,Fontanería,ES
 2018-11-18,83,Fontanería,ES
 2018-11-25,76,Fontanería,ES
 2018-12-02,74,Fontanería,ES
@@ -1205,7 +1205,7 @@ date,trend_value,category,country
 2020-07-12,69,Pintura de la casa y acabados,ES
 2020-07-19,69,Pintura de la casa y acabados,ES
 2020-07-26,68,Pintura de la casa y acabados,ES
-2020-08-02,65,Pintura de la casa y acabados,ES
+2020-08-02,66,Pintura de la casa y acabados,ES
 2020-08-09,67,Pintura de la casa y acabados,ES
 2020-08-16,70,Pintura de la casa y acabados,ES
 2020-08-23,73,Pintura de la casa y acabados,ES
@@ -1548,7 +1548,7 @@ date,trend_value,category,country
 2022-02-13,55,Puertas y ventanas,ES
 2022-02-20,52,Puertas y ventanas,ES
 2022-02-27,51,Puertas y ventanas,ES
-2022-03-06,53,Puertas y ventanas,ES
+2022-03-06,54,Puertas y ventanas,ES
 2022-03-13,59,Puertas y ventanas,ES
 2022-03-20,58,Puertas y ventanas,ES
 2022-03-27,53,Puertas y ventanas,ES
@@ -2156,7 +2156,7 @@ date,trend_value,category,country
 2018-10-28,83,Construcción y mantenimiento,ES
 2018-11-04,84,Construcción y mantenimiento,ES
 2018-11-11,80,Construcción y mantenimiento,ES
-2018-11-18,80,Construcción y mantenimiento,ES
+2018-11-18,81,Construcción y mantenimiento,ES
 2018-11-25,81,Construcción y mantenimiento,ES
 2018-12-02,68,Construcción y mantenimiento,ES
 2018-12-09,76,Construcción y mantenimiento,ES
@@ -2337,7 +2337,7 @@ date,trend_value,category,country
 2022-04-17,64,Construcción y mantenimiento,ES
 2022-04-24,60,Construcción y mantenimiento,ES
 2022-05-01,62,Construcción y mantenimiento,ES
-2022-05-08,69,Construcción y mantenimiento,ES
+2022-05-08,70,Construcción y mantenimiento,ES
 2017-05-21,51,Control de plagas,ES
 2017-05-28,55,Control de plagas,ES
 2017-06-04,51,Control de plagas,ES
@@ -2408,7 +2408,7 @@ date,trend_value,category,country
 2018-09-02,54,Control de plagas,ES
 2018-09-09,47,Control de plagas,ES
 2018-09-16,51,Control de plagas,ES
-2018-09-23,55,Control de plagas,ES
+2018-09-23,54,Control de plagas,ES
 2018-09-30,48,Control de plagas,ES
 2018-10-07,46,Control de plagas,ES
 2018-10-14,46,Control de plagas,ES
@@ -2464,7 +2464,7 @@ date,trend_value,category,country
 2019-09-29,59,Control de plagas,ES
 2019-10-06,48,Control de plagas,ES
 2019-10-13,45,Control de plagas,ES
-2019-10-20,39,Control de plagas,ES
+2019-10-20,38,Control de plagas,ES
 2019-10-27,45,Control de plagas,ES
 2019-11-03,43,Control de plagas,ES
 2019-11-10,37,Control de plagas,ES
@@ -2569,7 +2569,7 @@ date,trend_value,category,country
 2021-10-03,60,Control de plagas,ES
 2021-10-10,62,Control de plagas,ES
 2021-10-17,64,Control de plagas,ES
-2021-10-24,59,Control de plagas,ES
+2021-10-24,58,Control de plagas,ES
 2021-10-31,55,Control de plagas,ES
 2021-11-07,48,Control de plagas,ES
 2021-11-14,50,Control de plagas,ES
@@ -2740,7 +2740,7 @@ date,trend_value,category,country
 2020-01-19,78,Cocinas,ES
 2020-01-26,76,Cocinas,ES
 2020-02-02,76,Cocinas,ES
-2020-02-09,76,Cocinas,ES
+2020-02-09,75,Cocinas,ES
 2020-02-16,76,Cocinas,ES
 2020-02-23,74,Cocinas,ES
 2020-03-01,74,Cocinas,ES
@@ -3195,7 +3195,7 @@ date,trend_value,category,country
 2018-10-21,79,Hogar y decoración de interiores,ES
 2018-10-28,79,Hogar y decoración de interiores,ES
 2018-11-04,83,Hogar y decoración de interiores,ES
-2018-11-11,89,Hogar y decoración de interiores,ES
+2018-11-11,90,Hogar y decoración de interiores,ES
 2018-11-18,85,Hogar y decoración de interiores,ES
 2018-11-25,82,Hogar y decoración de interiores,ES
 2018-12-02,82,Hogar y decoración de interiores,ES
@@ -3538,7 +3538,7 @@ date,trend_value,category,country
 2020-05-24,98,Jardinería y ajardinamiento,ES
 2020-05-31,95,Jardinería y ajardinamiento,ES
 2020-06-07,79,Jardinería y ajardinamiento,ES
-2020-06-14,78,Jardinería y ajardinamiento,ES
+2020-06-14,79,Jardinería y ajardinamiento,ES
 2020-06-21,73,Jardinería y ajardinamiento,ES
 2020-06-28,68,Jardinería y ajardinamiento,ES
 2020-07-05,64,Jardinería y ajardinamiento,ES
@@ -4084,7 +4084,7 @@ date,trend_value,category,country
 2020-11-22,72,Servicios y suministros de limpieza,ES
 2020-11-29,69,Servicios y suministros de limpieza,ES
 2020-12-06,69,Servicios y suministros de limpieza,ES
-2020-12-13,69,Servicios y suministros de limpieza,ES
+2020-12-13,68,Servicios y suministros de limpieza,ES
 2020-12-20,59,Servicios y suministros de limpieza,ES
 2020-12-27,64,Servicios y suministros de limpieza,ES
 2021-01-03,65,Servicios y suministros de limpieza,ES
@@ -4102,7 +4102,7 @@ date,trend_value,category,country
 2021-03-28,62,Servicios y suministros de limpieza,ES
 2021-04-04,69,Servicios y suministros de limpieza,ES
 2021-04-11,68,Servicios y suministros de limpieza,ES
-2021-04-18,65,Servicios y suministros de limpieza,ES
+2021-04-18,64,Servicios y suministros de limpieza,ES
 2021-04-25,67,Servicios y suministros de limpieza,ES
 2021-05-02,65,Servicios y suministros de limpieza,ES
 2021-05-09,67,Servicios y suministros de limpieza,ES
@@ -4387,7 +4387,7 @@ date,trend_value,category,country
 2021-09-19,45,Servicios y productos de seguridad,ES
 2021-09-26,49,Servicios y productos de seguridad,ES
 2021-10-03,47,Servicios y productos de seguridad,ES
-2021-10-10,44,Servicios y productos de seguridad,ES
+2021-10-10,45,Servicios y productos de seguridad,ES
 2021-10-17,49,Servicios y productos de seguridad,ES
 2021-10-24,46,Servicios y productos de seguridad,ES
 2021-10-31,48,Servicios y productos de seguridad,ES
@@ -4417,7 +4417,7 @@ date,trend_value,category,country
 2022-04-17,44,Servicios y productos de seguridad,ES
 2022-04-24,38,Servicios y productos de seguridad,ES
 2022-05-01,39,Servicios y productos de seguridad,ES
-2022-05-08,41,Servicios y productos de seguridad,ES
+2022-05-08,40,Servicios y productos de seguridad,ES
 2017-05-21,57,Mobiliario doméstico,ES
 2017-05-28,59,Mobiliario doméstico,ES
 2017-06-04,59,Mobiliario doméstico,ES
@@ -4495,8 +4495,8 @@ date,trend_value,category,country
 2018-10-21,72,Mobiliario doméstico,ES
 2018-10-28,67,Mobiliario doméstico,ES
 2018-11-04,80,Mobiliario doméstico,ES
-2018-11-11,77,Mobiliario doméstico,ES
-2018-11-18,81,Mobiliario doméstico,ES
+2018-11-11,78,Mobiliario doméstico,ES
+2018-11-18,82,Mobiliario doméstico,ES
 2018-11-25,78,Mobiliario doméstico,ES
 2018-12-02,76,Mobiliario doméstico,ES
 2018-12-09,68,Mobiliario doméstico,ES
@@ -4937,7 +4937,7 @@ date,trend_value,category,country
 2022-04-17,53,Mudanzas y traslados,ES
 2022-04-24,57,Mudanzas y traslados,ES
 2022-05-01,49,Mudanzas y traslados,ES
-2022-05-08,52,Mudanzas y traslados,ES
+2022-05-08,53,Mudanzas y traslados,ES
 2017-05-21,60,Mejora del hogar,IT
 2017-05-28,61,Mejora del hogar,IT
 2017-06-04,59,Mejora del hogar,IT
@@ -4983,7 +4983,7 @@ date,trend_value,category,country
 2018-03-11,64,Mejora del hogar,IT
 2018-03-18,62,Mejora del hogar,IT
 2018-03-25,60,Mejora del hogar,IT
-2018-04-01,56,Mejora del hogar,IT
+2018-04-01,57,Mejora del hogar,IT
 2018-04-08,62,Mejora del hogar,IT
 2018-04-15,62,Mejora del hogar,IT
 2018-04-22,61,Mejora del hogar,IT
@@ -5094,7 +5094,7 @@ date,trend_value,category,country
 2020-04-26,69,Mejora del hogar,IT
 2020-05-03,79,Mejora del hogar,IT
 2020-05-10,100,Mejora del hogar,IT
-2020-05-17,88,Mejora del hogar,IT
+2020-05-17,89,Mejora del hogar,IT
 2020-05-24,84,Mejora del hogar,IT
 2020-05-31,78,Mejora del hogar,IT
 2020-06-07,79,Mejora del hogar,IT
@@ -5302,7 +5302,7 @@ date,trend_value,category,country
 2019-04-28,64,Herramientas de construcción y eléctricas,IT
 2019-05-05,67,Herramientas de construcción y eléctricas,IT
 2019-05-12,66,Herramientas de construcción y eléctricas,IT
-2019-05-19,67,Herramientas de construcción y eléctricas,IT
+2019-05-19,68,Herramientas de construcción y eléctricas,IT
 2019-05-26,65,Herramientas de construcción y eléctricas,IT
 2019-06-02,62,Herramientas de construcción y eléctricas,IT
 2019-06-09,58,Herramientas de construcción y eléctricas,IT
@@ -5399,7 +5399,7 @@ date,trend_value,category,country
 2021-03-07,78,Herramientas de construcción y eléctricas,IT
 2021-03-14,85,Herramientas de construcción y eléctricas,IT
 2021-03-21,83,Herramientas de construcción y eléctricas,IT
-2021-03-28,74,Herramientas de construcción y eléctricas,IT
+2021-03-28,75,Herramientas de construcción y eléctricas,IT
 2021-04-04,74,Herramientas de construcción y eléctricas,IT
 2021-04-11,82,Herramientas de construcción y eléctricas,IT
 2021-04-18,77,Herramientas de construcción y eléctricas,IT
@@ -5476,7 +5476,7 @@ date,trend_value,category,country
 2017-09-03,27,Sistemas de climatización,IT
 2017-09-10,31,Sistemas de climatización,IT
 2017-09-17,35,Sistemas de climatización,IT
-2017-09-24,34,Sistemas de climatización,IT
+2017-09-24,35,Sistemas de climatización,IT
 2017-10-01,35,Sistemas de climatización,IT
 2017-10-08,35,Sistemas de climatización,IT
 2017-10-15,34,Sistemas de climatización,IT
@@ -5977,7 +5977,7 @@ date,trend_value,category,country
 2022-04-17,43,Fontanería,IT
 2022-04-24,43,Fontanería,IT
 2022-05-01,45,Fontanería,IT
-2022-05-08,43,Fontanería,IT
+2022-05-08,44,Fontanería,IT
 2017-05-21,73,Pintura de la casa y acabados,IT
 2017-05-28,70,Pintura de la casa y acabados,IT
 2017-06-04,68,Pintura de la casa y acabados,IT
@@ -5987,7 +5987,7 @@ date,trend_value,category,country
 2017-07-02,65,Pintura de la casa y acabados,IT
 2017-07-09,63,Pintura de la casa y acabados,IT
 2017-07-16,62,Pintura de la casa y acabados,IT
-2017-07-23,71,Pintura de la casa y acabados,IT
+2017-07-23,72,Pintura de la casa y acabados,IT
 2017-07-30,65,Pintura de la casa y acabados,IT
 2017-08-06,57,Pintura de la casa y acabados,IT
 2017-08-13,46,Pintura de la casa y acabados,IT
@@ -6724,7 +6724,7 @@ date,trend_value,category,country
 2021-08-29,78,Revestimiento para suelos,IT
 2021-09-05,80,Revestimiento para suelos,IT
 2021-09-12,78,Revestimiento para suelos,IT
-2021-09-19,76,Revestimiento para suelos,IT
+2021-09-19,77,Revestimiento para suelos,IT
 2021-09-26,75,Revestimiento para suelos,IT
 2021-10-03,76,Revestimiento para suelos,IT
 2021-10-10,74,Revestimiento para suelos,IT
@@ -7229,7 +7229,7 @@ date,trend_value,category,country
 2021-05-16,52,Construcción y mantenimiento,IT
 2021-05-23,50,Construcción y mantenimiento,IT
 2021-05-30,50,Construcción y mantenimiento,IT
-2021-06-06,50,Construcción y mantenimiento,IT
+2021-06-06,51,Construcción y mantenimiento,IT
 2021-06-13,54,Construcción y mantenimiento,IT
 2021-06-20,61,Construcción y mantenimiento,IT
 2021-06-27,50,Construcción y mantenimiento,IT
@@ -7940,7 +7940,7 @@ date,trend_value,category,country
 2020-01-19,61,Electrodomésticos,IT
 2020-01-26,58,Electrodomésticos,IT
 2020-02-02,57,Electrodomésticos,IT
-2020-02-09,53,Electrodomésticos,IT
+2020-02-09,52,Electrodomésticos,IT
 2020-02-16,53,Electrodomésticos,IT
 2020-02-23,49,Electrodomésticos,IT
 2020-03-01,55,Electrodomésticos,IT
@@ -9097,7 +9097,7 @@ date,trend_value,category,country
 2022-04-17,43,Servicios y suministros de limpieza,IT
 2022-04-24,46,Servicios y suministros de limpieza,IT
 2022-05-01,48,Servicios y suministros de limpieza,IT
-2022-05-08,47,Servicios y suministros de limpieza,IT
+2022-05-08,46,Servicios y suministros de limpieza,IT
 2017-05-21,82,Servicios y productos de seguridad,IT
 2017-05-28,72,Servicios y productos de seguridad,IT
 2017-06-04,82,Servicios y productos de seguridad,IT
@@ -9175,7 +9175,7 @@ date,trend_value,category,country
 2018-10-21,83,Servicios y productos de seguridad,IT
 2018-10-28,83,Servicios y productos de seguridad,IT
 2018-11-04,93,Servicios y productos de seguridad,IT
-2018-11-11,85,Servicios y productos de seguridad,IT
+2018-11-11,86,Servicios y productos de seguridad,IT
 2018-11-18,89,Servicios y productos de seguridad,IT
 2018-11-25,82,Servicios y productos de seguridad,IT
 2018-12-02,100,Servicios y productos de seguridad,IT
@@ -9480,7 +9480,7 @@ date,trend_value,category,country
 2019-09-01,75,Mobiliario doméstico,IT
 2019-09-08,73,Mobiliario doméstico,IT
 2019-09-15,71,Mobiliario doméstico,IT
-2019-09-22,74,Mobiliario doméstico,IT
+2019-09-22,75,Mobiliario doméstico,IT
 2019-09-29,74,Mobiliario doméstico,IT
 2019-10-06,74,Mobiliario doméstico,IT
 2019-10-13,73,Mobiliario doméstico,IT
@@ -9877,7 +9877,7 @@ date,trend_value,category,country
 2022-04-17,49,Mudanzas y traslados,IT
 2022-04-24,55,Mudanzas y traslados,IT
 2022-05-01,60,Mudanzas y traslados,IT
-2022-05-08,59,Mudanzas y traslados,IT
+2022-05-08,58,Mudanzas y traslados,IT
 2017-05-21,59,Mejora del hogar,PT
 2017-05-28,58,Mejora del hogar,PT
 2017-06-04,53,Mejora del hogar,PT
@@ -10397,7 +10397,7 @@ date,trend_value,category,country
 2022-04-17,82,Herramientas de construcción y eléctricas,PT
 2022-04-24,79,Herramientas de construcción y eléctricas,PT
 2022-05-01,76,Herramientas de construcción y eléctricas,PT
-2022-05-08,76,Herramientas de construcción y eléctricas,PT
+2022-05-08,75,Herramientas de construcción y eléctricas,PT
 2017-05-21,20,Sistemas de climatización,PT
 2017-05-28,20,Sistemas de climatización,PT
 2017-06-04,17,Sistemas de climatización,PT
@@ -10657,7 +10657,7 @@ date,trend_value,category,country
 2022-04-17,28,Sistemas de climatización,PT
 2022-04-24,25,Sistemas de climatización,PT
 2022-05-01,28,Sistemas de climatización,PT
-2022-05-08,37,Sistemas de climatización,PT
+2022-05-08,36,Sistemas de climatización,PT
 2017-05-21,70,Fontanería,PT
 2017-05-28,67,Fontanería,PT
 2017-06-04,61,Fontanería,PT
@@ -10751,7 +10751,7 @@ date,trend_value,category,country
 2019-02-10,73,Fontanería,PT
 2019-02-17,69,Fontanería,PT
 2019-02-24,62,Fontanería,PT
-2019-03-03,63,Fontanería,PT
+2019-03-03,64,Fontanería,PT
 2019-03-10,59,Fontanería,PT
 2019-03-17,66,Fontanería,PT
 2019-03-24,68,Fontanería,PT
@@ -10917,7 +10917,7 @@ date,trend_value,category,country
 2022-04-17,69,Fontanería,PT
 2022-04-24,63,Fontanería,PT
 2022-05-01,53,Fontanería,PT
-2022-05-08,74,Fontanería,PT
+2022-05-08,75,Fontanería,PT
 2017-05-21,69,Pintura de la casa y acabados,PT
 2017-05-28,52,Pintura de la casa y acabados,PT
 2017-06-04,48,Pintura de la casa y acabados,PT
@@ -10973,7 +10973,7 @@ date,trend_value,category,country
 2018-05-20,65,Pintura de la casa y acabados,PT
 2018-05-27,61,Pintura de la casa y acabados,PT
 2018-06-03,60,Pintura de la casa y acabados,PT
-2018-06-10,59,Pintura de la casa y acabados,PT
+2018-06-10,58,Pintura de la casa y acabados,PT
 2018-06-17,60,Pintura de la casa y acabados,PT
 2018-06-24,57,Pintura de la casa y acabados,PT
 2018-07-01,56,Pintura de la casa y acabados,PT
@@ -10989,7 +10989,7 @@ date,trend_value,category,country
 2018-09-09,53,Pintura de la casa y acabados,PT
 2018-09-16,48,Pintura de la casa y acabados,PT
 2018-09-23,44,Pintura de la casa y acabados,PT
-2018-09-30,47,Pintura de la casa y acabados,PT
+2018-09-30,46,Pintura de la casa y acabados,PT
 2018-10-07,52,Pintura de la casa y acabados,PT
 2018-10-14,49,Pintura de la casa y acabados,PT
 2018-10-21,49,Pintura de la casa y acabados,PT
@@ -11054,7 +11054,7 @@ date,trend_value,category,country
 2019-12-08,52,Pintura de la casa y acabados,PT
 2019-12-15,44,Pintura de la casa y acabados,PT
 2019-12-22,44,Pintura de la casa y acabados,PT
-2019-12-29,45,Pintura de la casa y acabados,PT
+2019-12-29,44,Pintura de la casa y acabados,PT
 2020-01-05,52,Pintura de la casa y acabados,PT
 2020-01-12,59,Pintura de la casa y acabados,PT
 2020-01-19,50,Pintura de la casa y acabados,PT
@@ -11075,12 +11075,12 @@ date,trend_value,category,country
 2020-05-03,99,Pintura de la casa y acabados,PT
 2020-05-10,90,Pintura de la casa y acabados,PT
 2020-05-17,100,Pintura de la casa y acabados,PT
-2020-05-24,87,Pintura de la casa y acabados,PT
+2020-05-24,86,Pintura de la casa y acabados,PT
 2020-05-31,81,Pintura de la casa y acabados,PT
 2020-06-07,89,Pintura de la casa y acabados,PT
 2020-06-14,85,Pintura de la casa y acabados,PT
 2020-06-21,75,Pintura de la casa y acabados,PT
-2020-06-28,71,Pintura de la casa y acabados,PT
+2020-06-28,70,Pintura de la casa y acabados,PT
 2020-07-05,69,Pintura de la casa y acabados,PT
 2020-07-12,73,Pintura de la casa y acabados,PT
 2020-07-19,73,Pintura de la casa y acabados,PT
@@ -11117,7 +11117,7 @@ date,trend_value,category,country
 2021-02-21,77,Pintura de la casa y acabados,PT
 2021-02-28,67,Pintura de la casa y acabados,PT
 2021-03-07,67,Pintura de la casa y acabados,PT
-2021-03-14,71,Pintura de la casa y acabados,PT
+2021-03-14,70,Pintura de la casa y acabados,PT
 2021-03-21,74,Pintura de la casa y acabados,PT
 2021-03-28,70,Pintura de la casa y acabados,PT
 2021-04-04,69,Pintura de la casa y acabados,PT
@@ -11158,7 +11158,7 @@ date,trend_value,category,country
 2021-12-05,61,Pintura de la casa y acabados,PT
 2021-12-12,56,Pintura de la casa y acabados,PT
 2021-12-19,49,Pintura de la casa y acabados,PT
-2021-12-26,50,Pintura de la casa y acabados,PT
+2021-12-26,49,Pintura de la casa y acabados,PT
 2022-01-02,52,Pintura de la casa y acabados,PT
 2022-01-09,54,Pintura de la casa y acabados,PT
 2022-01-16,61,Pintura de la casa y acabados,PT
@@ -11177,12 +11177,12 @@ date,trend_value,category,country
 2022-04-17,64,Pintura de la casa y acabados,PT
 2022-04-24,67,Pintura de la casa y acabados,PT
 2022-05-01,70,Pintura de la casa y acabados,PT
-2022-05-08,72,Pintura de la casa y acabados,PT
+2022-05-08,73,Pintura de la casa y acabados,PT
 2017-05-21,68,Puertas y ventanas,PT
 2017-05-28,66,Puertas y ventanas,PT
 2017-06-04,61,Puertas y ventanas,PT
 2017-06-11,55,Puertas y ventanas,PT
-2017-06-18,52,Puertas y ventanas,PT
+2017-06-18,51,Puertas y ventanas,PT
 2017-06-25,61,Puertas y ventanas,PT
 2017-07-02,56,Puertas y ventanas,PT
 2017-07-09,57,Puertas y ventanas,PT
@@ -11205,13 +11205,13 @@ date,trend_value,category,country
 2017-11-05,72,Puertas y ventanas,PT
 2017-11-12,74,Puertas y ventanas,PT
 2017-11-19,83,Puertas y ventanas,PT
-2017-11-26,74,Puertas y ventanas,PT
+2017-11-26,73,Puertas y ventanas,PT
 2017-12-03,73,Puertas y ventanas,PT
 2017-12-10,76,Puertas y ventanas,PT
 2017-12-17,76,Puertas y ventanas,PT
 2017-12-24,69,Puertas y ventanas,PT
 2017-12-31,73,Puertas y ventanas,PT
-2018-01-07,74,Puertas y ventanas,PT
+2018-01-07,73,Puertas y ventanas,PT
 2018-01-14,75,Puertas y ventanas,PT
 2018-01-21,71,Puertas y ventanas,PT
 2018-01-28,79,Puertas y ventanas,PT
@@ -11220,11 +11220,11 @@ date,trend_value,category,country
 2018-02-18,82,Puertas y ventanas,PT
 2018-02-25,80,Puertas y ventanas,PT
 2018-03-04,84,Puertas y ventanas,PT
-2018-03-11,93,Puertas y ventanas,PT
+2018-03-11,92,Puertas y ventanas,PT
 2018-03-18,71,Puertas y ventanas,PT
 2018-03-25,78,Puertas y ventanas,PT
 2018-04-01,86,Puertas y ventanas,PT
-2018-04-08,85,Puertas y ventanas,PT
+2018-04-08,84,Puertas y ventanas,PT
 2018-04-15,82,Puertas y ventanas,PT
 2018-04-22,74,Puertas y ventanas,PT
 2018-04-29,71,Puertas y ventanas,PT
@@ -11266,7 +11266,7 @@ date,trend_value,category,country
 2019-01-06,56,Puertas y ventanas,PT
 2019-01-13,55,Puertas y ventanas,PT
 2019-01-20,54,Puertas y ventanas,PT
-2019-01-27,55,Puertas y ventanas,PT
+2019-01-27,54,Puertas y ventanas,PT
 2019-02-03,51,Puertas y ventanas,PT
 2019-02-10,54,Puertas y ventanas,PT
 2019-02-17,54,Puertas y ventanas,PT
@@ -11289,7 +11289,7 @@ date,trend_value,category,country
 2019-06-16,43,Puertas y ventanas,PT
 2019-06-23,40,Puertas y ventanas,PT
 2019-06-30,41,Puertas y ventanas,PT
-2019-07-07,43,Puertas y ventanas,PT
+2019-07-07,42,Puertas y ventanas,PT
 2019-07-14,43,Puertas y ventanas,PT
 2019-07-21,45,Puertas y ventanas,PT
 2019-07-28,49,Puertas y ventanas,PT
@@ -11298,7 +11298,7 @@ date,trend_value,category,country
 2019-08-18,47,Puertas y ventanas,PT
 2019-08-25,47,Puertas y ventanas,PT
 2019-09-01,47,Puertas y ventanas,PT
-2019-09-08,44,Puertas y ventanas,PT
+2019-09-08,43,Puertas y ventanas,PT
 2019-09-15,52,Puertas y ventanas,PT
 2019-09-22,50,Puertas y ventanas,PT
 2019-09-29,55,Puertas y ventanas,PT
@@ -11335,19 +11335,19 @@ date,trend_value,category,country
 2020-05-03,32,Puertas y ventanas,PT
 2020-05-10,36,Puertas y ventanas,PT
 2020-05-17,40,Puertas y ventanas,PT
-2020-05-24,42,Puertas y ventanas,PT
+2020-05-24,41,Puertas y ventanas,PT
 2020-05-31,43,Puertas y ventanas,PT
 2020-06-07,44,Puertas y ventanas,PT
 2020-06-14,51,Puertas y ventanas,PT
 2020-06-21,52,Puertas y ventanas,PT
-2020-06-28,52,Puertas y ventanas,PT
+2020-06-28,51,Puertas y ventanas,PT
 2020-07-05,50,Puertas y ventanas,PT
 2020-07-12,50,Puertas y ventanas,PT
 2020-07-19,50,Puertas y ventanas,PT
 2020-07-26,43,Puertas y ventanas,PT
 2020-08-02,41,Puertas y ventanas,PT
 2020-08-09,44,Puertas y ventanas,PT
-2020-08-16,52,Puertas y ventanas,PT
+2020-08-16,51,Puertas y ventanas,PT
 2020-08-23,42,Puertas y ventanas,PT
 2020-08-30,42,Puertas y ventanas,PT
 2020-09-06,51,Puertas y ventanas,PT
@@ -11367,10 +11367,10 @@ date,trend_value,category,country
 2020-12-13,45,Puertas y ventanas,PT
 2020-12-20,34,Puertas y ventanas,PT
 2020-12-27,45,Puertas y ventanas,PT
-2021-01-03,47,Puertas y ventanas,PT
+2021-01-03,46,Puertas y ventanas,PT
 2021-01-10,42,Puertas y ventanas,PT
 2021-01-17,45,Puertas y ventanas,PT
-2021-01-24,49,Puertas y ventanas,PT
+2021-01-24,48,Puertas y ventanas,PT
 2021-01-31,51,Puertas y ventanas,PT
 2021-02-07,49,Puertas y ventanas,PT
 2021-02-14,55,Puertas y ventanas,PT
@@ -11382,7 +11382,7 @@ date,trend_value,category,country
 2021-03-28,44,Puertas y ventanas,PT
 2021-04-04,45,Puertas y ventanas,PT
 2021-04-11,45,Puertas y ventanas,PT
-2021-04-18,43,Puertas y ventanas,PT
+2021-04-18,42,Puertas y ventanas,PT
 2021-04-25,40,Puertas y ventanas,PT
 2021-05-02,38,Puertas y ventanas,PT
 2021-05-09,43,Puertas y ventanas,PT
@@ -11391,7 +11391,7 @@ date,trend_value,category,country
 2021-05-30,33,Puertas y ventanas,PT
 2021-06-06,33,Puertas y ventanas,PT
 2021-06-13,39,Puertas y ventanas,PT
-2021-06-20,39,Puertas y ventanas,PT
+2021-06-20,38,Puertas y ventanas,PT
 2021-06-27,39,Puertas y ventanas,PT
 2021-07-04,33,Puertas y ventanas,PT
 2021-07-11,32,Puertas y ventanas,PT
@@ -11416,7 +11416,7 @@ date,trend_value,category,country
 2021-11-21,40,Puertas y ventanas,PT
 2021-11-28,37,Puertas y ventanas,PT
 2021-12-05,39,Puertas y ventanas,PT
-2021-12-12,37,Puertas y ventanas,PT
+2021-12-12,36,Puertas y ventanas,PT
 2021-12-19,30,Puertas y ventanas,PT
 2021-12-26,31,Puertas y ventanas,PT
 2022-01-02,38,Puertas y ventanas,PT
@@ -11429,7 +11429,7 @@ date,trend_value,category,country
 2022-02-20,36,Puertas y ventanas,PT
 2022-02-27,35,Puertas y ventanas,PT
 2022-03-06,40,Puertas y ventanas,PT
-2022-03-13,35,Puertas y ventanas,PT
+2022-03-13,34,Puertas y ventanas,PT
 2022-03-20,35,Puertas y ventanas,PT
 2022-03-27,35,Puertas y ventanas,PT
 2022-04-03,38,Puertas y ventanas,PT
@@ -11516,7 +11516,7 @@ date,trend_value,category,country
 2018-10-28,54,Revestimiento para suelos,PT
 2018-11-04,68,Revestimiento para suelos,PT
 2018-11-11,60,Revestimiento para suelos,PT
-2018-11-18,61,Revestimiento para suelos,PT
+2018-11-18,62,Revestimiento para suelos,PT
 2018-11-25,55,Revestimiento para suelos,PT
 2018-12-02,64,Revestimiento para suelos,PT
 2018-12-09,56,Revestimiento para suelos,PT
@@ -11697,7 +11697,7 @@ date,trend_value,category,country
 2022-04-17,73,Revestimiento para suelos,PT
 2022-04-24,65,Revestimiento para suelos,PT
 2022-05-01,71,Revestimiento para suelos,PT
-2022-05-08,73,Revestimiento para suelos,PT
+2022-05-08,72,Revestimiento para suelos,PT
 2017-05-21,45,Tejados,PT
 2017-05-28,52,Tejados,PT
 2017-06-04,46,Tejados,PT
@@ -11745,7 +11745,7 @@ date,trend_value,category,country
 2018-03-25,57,Tejados,PT
 2018-04-01,51,Tejados,PT
 2018-04-08,56,Tejados,PT
-2018-04-15,51,Tejados,PT
+2018-04-15,50,Tejados,PT
 2018-04-22,58,Tejados,PT
 2018-04-29,55,Tejados,PT
 2018-05-06,54,Tejados,PT
@@ -11756,7 +11756,7 @@ date,trend_value,category,country
 2018-06-10,52,Tejados,PT
 2018-06-17,49,Tejados,PT
 2018-06-24,56,Tejados,PT
-2018-07-01,51,Tejados,PT
+2018-07-01,50,Tejados,PT
 2018-07-08,50,Tejados,PT
 2018-07-15,54,Tejados,PT
 2018-07-22,57,Tejados,PT
@@ -11879,7 +11879,7 @@ date,trend_value,category,country
 2020-10-18,69,Tejados,PT
 2020-10-25,63,Tejados,PT
 2020-11-01,64,Tejados,PT
-2020-11-08,64,Tejados,PT
+2020-11-08,63,Tejados,PT
 2020-11-15,66,Tejados,PT
 2020-11-22,57,Tejados,PT
 2020-11-29,63,Tejados,PT
@@ -11888,7 +11888,7 @@ date,trend_value,category,country
 2020-12-20,61,Tejados,PT
 2020-12-27,67,Tejados,PT
 2021-01-03,67,Tejados,PT
-2021-01-10,63,Tejados,PT
+2021-01-10,62,Tejados,PT
 2021-01-17,70,Tejados,PT
 2021-01-24,66,Tejados,PT
 2021-01-31,74,Tejados,PT
@@ -11957,7 +11957,7 @@ date,trend_value,category,country
 2022-04-17,70,Tejados,PT
 2022-04-24,69,Tejados,PT
 2022-05-01,70,Tejados,PT
-2022-05-08,71,Tejados,PT
+2022-05-08,70,Tejados,PT
 2017-05-21,67,Construcción y mantenimiento,PT
 2017-05-28,68,Construcción y mantenimiento,PT
 2017-06-04,62,Construcción y mantenimiento,PT
@@ -12036,7 +12036,7 @@ date,trend_value,category,country
 2018-10-28,68,Construcción y mantenimiento,PT
 2018-11-04,72,Construcción y mantenimiento,PT
 2018-11-11,66,Construcción y mantenimiento,PT
-2018-11-18,64,Construcción y mantenimiento,PT
+2018-11-18,65,Construcción y mantenimiento,PT
 2018-11-25,65,Construcción y mantenimiento,PT
 2018-12-02,68,Construcción y mantenimiento,PT
 2018-12-09,60,Construcción y mantenimiento,PT
@@ -12217,7 +12217,7 @@ date,trend_value,category,country
 2022-04-17,63,Construcción y mantenimiento,PT
 2022-04-24,61,Construcción y mantenimiento,PT
 2022-05-01,64,Construcción y mantenimiento,PT
-2022-05-08,66,Construcción y mantenimiento,PT
+2022-05-08,67,Construcción y mantenimiento,PT
 2017-05-21,64,Control de plagas,PT
 2017-05-28,52,Control de plagas,PT
 2017-06-04,55,Control de plagas,PT
@@ -12477,7 +12477,7 @@ date,trend_value,category,country
 2022-04-17,52,Control de plagas,PT
 2022-04-24,50,Control de plagas,PT
 2022-05-01,68,Control de plagas,PT
-2022-05-08,66,Control de plagas,PT
+2022-05-08,67,Control de plagas,PT
 2017-05-21,57,Cocinas,PT
 2017-05-28,57,Cocinas,PT
 2017-06-04,55,Cocinas,PT
@@ -12693,7 +12693,7 @@ date,trend_value,category,country
 2021-06-13,73,Cocinas,PT
 2021-06-20,75,Cocinas,PT
 2021-06-27,73,Cocinas,PT
-2021-07-04,74,Cocinas,PT
+2021-07-04,75,Cocinas,PT
 2021-07-11,71,Cocinas,PT
 2021-07-18,78,Cocinas,PT
 2021-07-25,77,Cocinas,PT
@@ -12737,7 +12737,7 @@ date,trend_value,category,country
 2022-04-17,77,Cocinas,PT
 2022-04-24,71,Cocinas,PT
 2022-05-01,71,Cocinas,PT
-2022-05-08,67,Cocinas,PT
+2022-05-08,66,Cocinas,PT
 2017-05-21,54,Electrodomésticos,PT
 2017-05-28,50,Electrodomésticos,PT
 2017-06-04,47,Electrodomésticos,PT
@@ -13484,7 +13484,7 @@ date,trend_value,category,country
 2021-08-29,58,Jardinería y ajardinamiento,PT
 2021-09-05,60,Jardinería y ajardinamiento,PT
 2021-09-12,57,Jardinería y ajardinamiento,PT
-2021-09-19,55,Jardinería y ajardinamiento,PT
+2021-09-19,56,Jardinería y ajardinamiento,PT
 2021-09-26,51,Jardinería y ajardinamiento,PT
 2021-10-03,59,Jardinería y ajardinamiento,PT
 2021-10-10,60,Jardinería y ajardinamiento,PT
@@ -13920,7 +13920,7 @@ date,trend_value,category,country
 2020-01-19,85,Servicios y suministros de limpieza,PT
 2020-01-26,86,Servicios y suministros de limpieza,PT
 2020-02-02,90,Servicios y suministros de limpieza,PT
-2020-02-09,74,Servicios y suministros de limpieza,PT
+2020-02-09,73,Servicios y suministros de limpieza,PT
 2020-02-16,83,Servicios y suministros de limpieza,PT
 2020-02-23,71,Servicios y suministros de limpieza,PT
 2020-03-01,89,Servicios y suministros de limpieza,PT
@@ -14082,7 +14082,7 @@ date,trend_value,category,country
 2018-03-04,57,Servicios y productos de seguridad,PT
 2018-03-11,50,Servicios y productos de seguridad,PT
 2018-03-18,56,Servicios y productos de seguridad,PT
-2018-03-25,52,Servicios y productos de seguridad,PT
+2018-03-25,51,Servicios y productos de seguridad,PT
 2018-04-01,61,Servicios y productos de seguridad,PT
 2018-04-08,51,Servicios y productos de seguridad,PT
 2018-04-15,53,Servicios y productos de seguridad,PT
@@ -14134,7 +14134,7 @@ date,trend_value,category,country
 2019-03-03,52,Servicios y productos de seguridad,PT
 2019-03-10,62,Servicios y productos de seguridad,PT
 2019-03-17,64,Servicios y productos de seguridad,PT
-2019-03-24,65,Servicios y productos de seguridad,PT
+2019-03-24,64,Servicios y productos de seguridad,PT
 2019-03-31,71,Servicios y productos de seguridad,PT
 2019-04-07,57,Servicios y productos de seguridad,PT
 2019-04-14,52,Servicios y productos de seguridad,PT
@@ -14207,7 +14207,7 @@ date,trend_value,category,country
 2020-07-26,62,Servicios y productos de seguridad,PT
 2020-08-02,61,Servicios y productos de seguridad,PT
 2020-08-09,59,Servicios y productos de seguridad,PT
-2020-08-16,58,Servicios y productos de seguridad,PT
+2020-08-16,57,Servicios y productos de seguridad,PT
 2020-08-23,61,Servicios y productos de seguridad,PT
 2020-08-30,61,Servicios y productos de seguridad,PT
 2020-09-06,61,Servicios y productos de seguridad,PT
@@ -14700,7 +14700,7 @@ date,trend_value,category,country
 2020-01-19,37,Mudanzas y traslados,PT
 2020-01-26,40,Mudanzas y traslados,PT
 2020-02-02,34,Mudanzas y traslados,PT
-2020-02-09,38,Mudanzas y traslados,PT
+2020-02-09,37,Mudanzas y traslados,PT
 2020-02-16,38,Mudanzas y traslados,PT
 2020-02-23,36,Mudanzas y traslados,PT
 2020-03-01,36,Mudanzas y traslados,PT
