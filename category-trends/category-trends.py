@@ -10,24 +10,24 @@ import gspread
 # https://github.com/pat310/google-trends-api/wiki/Google-Trends-Categories
 TRENDS_CATEGORIES = {
     158: 'Mejora del hogar',
-    950: 'Herramientas de construcción y eléctricas',
-    828: 'Sistemas de climatización',
-    1153: 'Fontanería',
-    1232: 'Pintura de la casa y acabados',
-    827: 'Puertas y ventanas',
-    832: 'Revestimiento para suelos',
-    1175: 'Tejados',
-    48: 'Construcción y mantenimiento',
-    471: 'Control de plagas',
-    951: 'Cocinas',
-    271: 'Electrodomésticos',
-    137: 'Hogar y decoración de interiores',
-    269: 'Jardinería y ajardinamiento',
-    952: 'Piscinas, balnearios y spas',
-    949: 'Servicios y suministros de limpieza',
-    705: 'Servicios y productos de seguridad',
-    270: 'Mobiliario doméstico',
-    291: 'Mudanzas y traslados',
+    # 950: 'Herramientas de construcción y eléctricas',
+    # 828: 'Sistemas de climatización',
+    # 1153: 'Fontanería',
+    # 1232: 'Pintura de la casa y acabados',
+    # 827: 'Puertas y ventanas',
+    # 832: 'Revestimiento para suelos',
+    # 1175: 'Tejados',
+    # 48: 'Construcción y mantenimiento',
+    # 471: 'Control de plagas',
+    # 951: 'Cocinas',
+    # 271: 'Electrodomésticos',
+    # 137: 'Hogar y decoración de interiores',
+    # 269: 'Jardinería y ajardinamiento',
+    # 952: 'Piscinas, balnearios y spas',
+    # 949: 'Servicios y suministros de limpieza',
+    # 705: 'Servicios y productos de seguridad',
+    # 270: 'Mobiliario doméstico',
+    # 291: 'Mudanzas y traslados',
 }
 
 # Online markets to analize data
@@ -72,8 +72,12 @@ with open('category-trends-results.csv', 'w') as file:
     for item in COUNTRIES:
         for category in TRENDS_CATEGORIES:
             category_data = get_trends(category, item)
-            print(category_data)
+            # print(category_data)
             category_data.to_csv('category-trends-results.csv', header=None, mode='a')
+
+# Converting 'trend_value' data to int64
+csv_data = pd.read_csv('category-trends-results.csv')
+csv_data['trend_value'] = csv_data['trend_value'].astype(str).astype(int)
 
 # Sending CSV data to Google SpreadSheet
 #
