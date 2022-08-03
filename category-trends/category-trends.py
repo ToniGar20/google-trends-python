@@ -4,6 +4,7 @@ from df2gspread import df2gspread as d2g
 import pandas as pd
 import csv
 import gspread
+import time
 
 
 # Documentation of Google Trends categories
@@ -73,6 +74,7 @@ with open('category-trends-results.csv', 'w') as file:
         for category in TRENDS_CATEGORIES:
             category_data = get_trends(category, item)
             print(category_data)
+            time.sleep(1)
             category_data.to_csv('category-trends-results.csv', header=None, mode='a')
 
 # Converting 'trend_value' data to int64
